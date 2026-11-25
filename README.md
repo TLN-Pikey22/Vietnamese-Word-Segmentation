@@ -140,7 +140,7 @@ OK
 
 Cả 3 Unit Tests đều thực hiện thành công.
 
-### 7.5. Thực nghiệm với 3 lần chia dữ liệu
+### 7.4. Thực nghiệm với 3 lần chia dữ liệu
 
 Tiến hành chia dữ liệu Train/Test theo tỷ lệ 80/20 với ba random seed khác nhau.
 
